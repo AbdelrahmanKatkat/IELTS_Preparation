@@ -7,7 +7,7 @@
             - I need in multiple choice to mark the name a target only and read while he talks
             - I blacked out, which means I need training more
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled.png)
+        ![Untitled](IELTS%2018/Untitled.png)
         
     - Reading
         
@@ -19,12 +19,12 @@
         - He asked if the urban farming can below and above the ground which was True but in two paragraphs ( I wouldn’t have found it either way 😂)
         - Number 10 not 9. It was False and I wrote NG which was a Rookie mistake ( I knew where it is exactly but I didn’t read carefully )
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%201.png)
+        ![Untitled](IELTS%2018/Untitled%201.png)
         
     - Writing
         - Task 1
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%202.png)
+            ![Untitled](IELTS%2018/Untitled%202.png)
             
             ### My answer:
             
@@ -92,7 +92,7 @@
             
         - Task 2
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%203.png)
+            ![Untitled](IELTS%2018/Untitled%203.png)
             
             ## Original Answer
             
@@ -138,9 +138,9 @@
 - Test 2
     - Listening
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%204.png)
+        ![Untitled](IELTS%2018/Untitled%204.png)
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%205.png)
+        ![Untitled](IELTS%2018/Untitled%205.png)
         
         - I made 6 mistakes and stopped the recording multiple times
         - Discount was written as discounts
@@ -152,17 +152,17 @@
         - Burial problem was that I wrote burial ground and in the answer there were a word which meant ground →site
         - The YES part was not clear to me and I was thinking about the answer for a while. So, most likely I wouldn’t have got it ( Depend on the exam ). It was the opinion question
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%206.png)
+            ![Untitled](IELTS%2018/Untitled%206.png)
             
         - It was given but I didn’t notice it. It was in between the words and even in the summary.
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%207.png)
+            ![Untitled](IELTS%2018/Untitled%207.png)
             
         - Both 34 and 36 I consider as a small mistake: I thought he meant hydraulic as a field and in transport I didn’t read it carefully
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%208.png)
+        ![Untitled](IELTS%2018/Untitled%208.png)
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%209.png)
+        ![Untitled](IELTS%2018/Untitled%209.png)
         
     - Writing
         - Task 1
@@ -202,7 +202,7 @@
             
             ## The Question
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2010.png)
+            ![Untitled](IELTS%2018/Untitled%2010.png)
             
         - Task 2
             
@@ -245,7 +245,7 @@
             
             ## The Question
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2011.png)
+            ![Untitled](IELTS%2018/Untitled%2011.png)
             
     - Speaking
 - Test 3
@@ -257,7 +257,7 @@
         
         ## Score
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2012.png)
+        ![Untitled](IELTS%2018/Untitled%2012.png)
         
         ## Mistakes
         
@@ -267,7 +267,7 @@
         - I didn’t hear Marrowfield because of double r
         - number 25 I listened again to it which why I got it correct and same with Marrowfield
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2013.png)
+        ![Untitled](IELTS%2018/Untitled%2013.png)
         
     - Reading
         
@@ -277,7 +277,7 @@
         
         ## Score
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2014.png)
+        ![Untitled](IELTS%2018/Untitled%2014.png)
         
         ## Mistakes
         
@@ -285,7 +285,7 @@
         - Mistake 26 didn’t read it well ( It was summary mistake and I know where the answer was )
         - 30, 31, 40 I knew all of them but hesitated
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2015.png)
+        ![Untitled](IELTS%2018/Untitled%2015.png)
         
     - Writing
         
@@ -295,7 +295,7 @@
         
         - Task 1
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2016.png)
+            ![Untitled](IELTS%2018/Untitled%2016.png)
             
             ## Original Answer
             
@@ -323,7 +323,7 @@
             
         - Task 2
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2017.png)
+            ![Untitled](IELTS%2018/Untitled%2017.png)
             
             ## Original Answer
             
@@ -362,19 +362,19 @@
         
         ## Score
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2018.png)
+        ![Untitled](IELTS%2018/Untitled%2018.png)
         
         ## Mistakes
         
         - It was an easy test but I'm really tired. six of them is based on listening skills and only one writing 1.15 not 1:15
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2019.png)
+        ![Untitled](IELTS%2018/Untitled%2019.png)
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2020.png)
+        ![Untitled](IELTS%2018/Untitled%2020.png)
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2021.png)
+        ![Untitled](IELTS%2018/Untitled%2021.png)
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2022.png)
+        ![Untitled](IELTS%2018/Untitled%2022.png)
         
     - Reading
         
@@ -384,21 +384,21 @@
         
         ## Score
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2023.png)
+        ![Untitled](IELTS%2018/Untitled%2023.png)
         
         ## Mistakes
         
         - 4 I didn’t read it carefully so it’s a reading mistake
         - 25 I was not sure of the answer, so reading mistake
         
-        ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2024.png)
+        ![Untitled](IELTS%2018/Untitled%2024.png)
         
     - Writing
         - Task 1
             
             ## Test
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2025.png)
+            ![Untitled](IELTS%2018/Untitled%2025.png)
             
             ## Original Answer
             
@@ -434,7 +434,7 @@
             
             ## Test
             
-            ![Untitled](IELTS%2018%2054e75c4c4ad44dceba185b5348f3a593/Untitled%2026.png)
+            ![Untitled](IELTS%2018/Untitled%2026.png)
             
             ## Original Answer
             

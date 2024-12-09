@@ -31,9 +31,9 @@ The IELTS Speaking test consists of three parts, each with its own specific focu
     5. Ask questions if you didn’t understand, but don’t stay silent. 
     6. Correct yourself (e.g. Sorry I meant, Can you repeat the, I have no idea )
 
-![Untitled](3%20Structure%20of%20the%20Questions%20bf916ac366014283afa415d298806f1f/Untitled.png)
+![Untitled](3%20Structure%20of%20the%20Questions/Untitled.png)
 
-![Untitled](3%20Structure%20of%20the%20Questions%20bf916ac366014283afa415d298806f1f/Untitled%201.png)
+![Untitled](3%20Structure%20of%20the%20Questions/Untitled%201.png)
 
 ### **Part 3: Discussion (4-5 minutes)**
 

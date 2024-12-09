@@ -4,9 +4,9 @@
     - Listening
         - Butterflies, Stones, boots all spelling mistakes
         - The rest all is hearing mistake which happened in the last exam where there is multiple choice and add to that I get lost for some reason
-        - I got 7 band score ( Bad )
+        - I got 7 band score ( Bad )IELTS 17 5f7fcda255004824bf697432e5711959
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled.png)
+        ![Untitled](IELTS%2017/Untitled.png)
         
     - Reading
         
@@ -16,19 +16,19 @@
         
         ## Score
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%201.png)
+        ![Untitled](IELTS%2017/Untitled%201.png)
         
         ## Mistakes
         
         - I’m doing good in all of them. I had doubts about them, so it’s normal mistakes
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%202.png)
+        ![Untitled](IELTS%2017/Untitled%202.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%203.png)
+        ![Untitled](IELTS%2017/Untitled%203.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%204.png)
+        ![Untitled](IELTS%2017/Untitled%204.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%205.png)
+        ![Untitled](IELTS%2017/Untitled%205.png)
         
     - Writing
         
@@ -130,7 +130,7 @@
         
         ## Score
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%206.png)
+        ![Untitled](IELTS%2017/Untitled%206.png)
         
         ## Mistakes
         
@@ -139,13 +139,13 @@
         - I didn’t focus on the words in 16
         - I needed to stop at the middle. I was really tired. When I returned I was relaxed and focused
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%207.png)
+        ![Untitled](IELTS%2017/Untitled%207.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%208.png)
+        ![Untitled](IELTS%2017/Untitled%208.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%209.png)
+        ![Untitled](IELTS%2017/Untitled%209.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2010.png)
+        ![Untitled](IELTS%2017/Untitled%2010.png)
         
     - Reading
         
@@ -155,15 +155,15 @@
         
         ## Score
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2011.png)
+        ![Untitled](IELTS%2017/Untitled%2011.png)
         
         ## Mistakes
         
         - Both were speed mistakes no problem
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2012.png)
+        ![Untitled](IELTS%2017/Untitled%2012.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2013.png)
+        ![Untitled](IELTS%2017/Untitled%2013.png)
         
     - Writing
         
@@ -171,7 +171,7 @@
         
         - Task 1
             
-            ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2014.png)
+            ![Untitled](IELTS%2017/Untitled%2014.png)
             
             ## Original Answer
             
@@ -201,7 +201,7 @@
             
         - Task 2
             
-            ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2015.png)
+            ![Untitled](IELTS%2017/Untitled%2015.png)
             
             ## Original Answer
             
@@ -296,16 +296,16 @@
         
         ## Score
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2016.png)
+        ![Untitled](IELTS%2017/Untitled%2016.png)
         
         ## Mistakes
         
         - 1 listening, I didn’t follow up well
         - 1 Spelling September ← Sep
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2017.png)
+        ![Untitled](IELTS%2017/Untitled%2017.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2018.png)
+        ![Untitled](IELTS%2017/Untitled%2018.png)
         
     - Reading
         
@@ -315,26 +315,26 @@
         
         ## Score
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2019.png)
+        ![Untitled](IELTS%2017/Untitled%2019.png)
         
         ## Mistakes
         
         - All reading mistakes no problem
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2020.png)
+        ![Untitled](IELTS%2017/Untitled%2020.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2021.png)
+        ![Untitled](IELTS%2017/Untitled%2021.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2022.png)
+        ![Untitled](IELTS%2017/Untitled%2022.png)
         
-        ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2023.png)
+        ![Untitled](IELTS%2017/Untitled%2023.png)
         
     - Writing
         - Task 1
             
             ## Test
             
-            ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2024.png)
+            ![Untitled](IELTS%2017/Untitled%2024.png)
             
             ## Original Answer
             
@@ -365,7 +365,7 @@
             
             ## Test
             
-            ![Untitled](IELTS%2017%205f7fcda255004824bf697432e5711959/Untitled%2025.png)
+            ![Untitled](IELTS%2017/Untitled%2025.png)
             
             ## Original Answer
             

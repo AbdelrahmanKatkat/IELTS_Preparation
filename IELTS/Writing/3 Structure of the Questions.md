@@ -11,14 +11,14 @@
             - **Data Presentation:** These types of questions typically involve line graphs or bar charts showing trends over a period of time or comparisons between different categories.
             - **Format:** In your report, start with an introductory sentence introducing the chart or graph. Then, in the main body, describe the key trends or comparisons, emphasizing significant details. Use a mix of vocabulary to express changes, such as "increase," "decrease," "fluctuate," and "remain constant." Make sure to provide data for each category or period mentioned in the graph or chart.
                 
-                ![Untitled](3%20Structure%20of%20the%20Questions%2056b6f1848018418695c12571b0de6213/Untitled.png)
+                ![Untitled](3%20Structure%20of%20the%20Questions/Untitled.png)
                 
         2. **Pie Charts:**
             - **Data Presentation:** Pie charts represent parts of a whole, and you need to describe the proportions of each category.
             - **Format:** Begin with an introductory sentence identifying the chart as a pie chart. Then, describe the largest and smallest categories, and any significant variations or trends.
             - You should also compare the categories and explain the importance of the data. Use vocabulary such as "the most significant portion," "the smallest fraction," "dominant," and "minor."
                 
-                ![Untitled](3%20Structure%20of%20the%20Questions%2056b6f1848018418695c12571b0de6213/Untitled%201.png)
+                ![Untitled](3%20Structure%20of%20the%20Questions/Untitled%201.png)
                 
                 This is a pie chart to explain the variation of energy sources in the USA between the year 1990 and 1980, which is only a gap of 10 years. The significant portion in belongs to oil source but once can see a decrease of 9% between the two years. The 
                 
@@ -26,13 +26,13 @@
             - **Data Presentation:** Tables provide structured data, often involving various categories and subcategories.
             - **Format:** Introduce the table and summarize its main features in the introductory sentence. Then, describe the data systematically, discussing the highest and lowest values, making comparisons between categories or subcategories, and noting any unusual data points. Use appropriate vocabulary to describe data relationships, such as "the highest figure," "the lowest number," "a sharp contrast," and "a marginal difference."
             
-            ![Untitled](3%20Structure%20of%20the%20Questions%2056b6f1848018418695c12571b0de6213/Untitled%202.png)
+            ![Untitled](3%20Structure%20of%20the%20Questions/Untitled%202.png)
             
         4. **Processes and Diagrams:**
             - **Data Presentation:** In these questions, you're presented with a process or diagram illustrating how something works.
             - **Format:** Begin with an introductory sentence explaining the process or diagram's purpose. Then, describe the different stages or components in a logical order. Use appropriate sequencing words like "first," "next," "subsequently," and "finally." Be sure to mention any significant changes or interactions between components.
             
-            ![Untitled](3%20Structure%20of%20the%20Questions%2056b6f1848018418695c12571b0de6213/Untitled%203.png)
+            ![Untitled](3%20Structure%20of%20the%20Questions/Untitled%203.png)
             
         
         **Optimum Format for Task 1:**
@@ -254,7 +254,7 @@
                 - Our digital map has already updated the locations of new buildings.
         - **Coordinate Description:** Specify coordinates with directional terms such as "left-hand," "right-hand," "top corner," and "bottom corner."
             
-            ![Untitled](3%20Structure%20of%20the%20Questions%2056b6f1848018418695c12571b0de6213/Untitled%204.png)
+            ![Untitled](3%20Structure%20of%20the%20Questions/Untitled%204.png)
             
         - **Verbs for Change:** Articulate alterations in the map using dynamic verbs like "add," "remove," "modernize," "extend," "replace," "reconstruct," "improve," "renovate," and "reduce."
         

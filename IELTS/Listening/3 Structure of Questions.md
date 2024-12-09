@@ -13,7 +13,7 @@ Let's break down each of the question types in the IELTS Listening exam and what
     - **Pay attention to qualifiers** like "always," "sometimes," or "usually" to ensure you select the most accurate answer.
     - If you're unsure, make an educated guess.
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled.png)
     
 
 **2. Matching**:
@@ -24,7 +24,7 @@ Let's break down each of the question types in the IELTS Listening exam and what
     - **Order:** Pay attention to any order or sequence of information.
     - **Note:** You will not hear it in order
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%201.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled%201.png)
     
 
 **3. Labeling a Diagram or Map**:
@@ -37,19 +37,19 @@ Let's break down each of the question types in the IELTS Listening exam and what
     - **Mechanical Diagram**: Try to understand how it works when you look at it
     - **Actions** : They will describe action with Prepositions ( Through, Inside, Upside, etc. )
         
-        ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%202.png)
+        ![Untitled](3%20Structure%20of%20Questions/Untitled%202.png)
         
     - **Listen for spatial and directional cues**, such as "to the left," "next to," or "opposite."
         
-        ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%203.png)
+        ![Untitled](3%20Structure%20of%20Questions/Untitled%203.png)
         
     - Use your notes to help you label the diagram accurately.
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%204.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled%204.png)
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%205.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled%205.png)
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%206.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled%206.png)
     
 
 **4. Completing a Table, Form, select from a list**:
@@ -62,9 +62,9 @@ Let's break down each of the question types in the IELTS Listening exam and what
     - **Multiple Options:** You may be asked to choose more than 3 options
     - Double-check your answers for accuracy and completeness.
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%207.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled%207.png)
     
-    ![Untitled](3%20Structure%20of%20Questions%200e33b882a75d4284ad30ca370fafcb54/Untitled%208.png)
+    ![Untitled](3%20Structure%20of%20Questions/Untitled%208.png)
     
 1.  **Filling in the Blanks:**
     - **Description**: In this type of question, you'll encounter a sentence or short passage with missing words. Your task is to listen for the missing words or phrases and write them down.

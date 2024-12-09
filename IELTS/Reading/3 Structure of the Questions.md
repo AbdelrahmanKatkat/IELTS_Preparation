@@ -54,9 +54,9 @@ In the IELTS Reading section, questions are designed to assess your reading comp
     - As you read the passage, underline or make notes of the relevant information for each statement.
     - Ensure that you match the information accurately, as the statements may not be in the same order as in the passage.
     
-    ![Untitled](3%20Structure%20of%20the%20Questions%207ff5942f45954eea85348e8a90367c2f/Untitled.png)
+    ![Untitled](3%20Structure%20of%20the%20Question/Untitled.png)
     
-    ![Untitled](3%20Structure%20of%20the%20Questions%207ff5942f45954eea85348e8a90367c2f/Untitled%201.png)
+    ![Untitled](3%20Structure%20of%20the%20Question/Untitled%201.png)
     
 3. **True/False/Not Given**:
     
@@ -131,14 +131,14 @@ In the IELTS Reading section, questions are designed to assess your reading comp
     - **Pay attention to any signal** words or phrases that indicate the order or relationship of the information. ( He may use it to distract you (e.g. However ).
     - Pay attention to the type of word you need ( Verb, Noun, adjective, adverb )
     
-    ![Untitled](3%20Structure%20of%20the%20Questions%207ff5942f45954eea85348e8a90367c2f/Untitled%202.png)
+    ![Untitled](3%20Structure%20of%20the%20Question/Untitled%202.png)
     
     - Note: You can only use words from passage or from the given box
     - **Note:** Completion will cover larger part of the passage .
     
-    ![Untitled](3%20Structure%20of%20the%20Questions%207ff5942f45954eea85348e8a90367c2f/Untitled%203.png)
+    ![Untitled](3%20Structure%20of%20the%20Question/Untitled%203.png)
     
-    ![Untitled](3%20Structure%20of%20the%20Questions%207ff5942f45954eea85348e8a90367c2f/Untitled%204.png)
+    ![Untitled](3%20Structure%20of%20the%20Question/Untitled%204.png)
     
 7. **Matching Headings**:
     
@@ -198,7 +198,7 @@ In the IELTS Reading section, questions are designed to assess your reading comp
     - Match each feature to the appropriate option by comparing the descriptions.
     - Be cautious about any subtle distinctions between features.
     
-    ![Untitled](3%20Structure%20of%20the%20Questions%207ff5942f45954eea85348e8a90367c2f/Untitled%205.png)
+    ![Untitled](3%20Structure%20of%20the%20Question/Untitled%205.png)
     
 9. **Diagram Labeling**:
     
